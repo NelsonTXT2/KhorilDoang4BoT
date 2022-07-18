@@ -18,20 +18,20 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281241100804','6281381685954','6281242432747','6289514712995','6285946057947'] 
-global.premium = ['6281241100804','6281381685954','6281242432747','6289514712995','6285946057947'] 
-global.ownernomer = '6281241100804'
-global.ownername = '𝐍𝐞𝐥𝐬𝐨𝐧'
-global.botname = '𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃'
-global.footer = '𝐍𝐞𝐥𝐬𝐨𝐧'
-global.youtube = 'https://vt.tiktok.com/ZSdPqwKTg/'
+global.owner = ['6285273104129'] 
+global.premium = ['6285273104129','6281241100804','6281381685954','6281242432747','6289514712995','6285946057947'] 
+global.ownernomer = '6285273104129'
+global.ownername = 'KHORIL AKBAR'
+global.botname = 'KhorilDoang4-BoT'
+global.footer = 'KHORIL AKBAR'
+global.youtube = 'http://tiktok.com/@khorildoang4'
 global.ig = 'https://instagram.com/nelson_randanan'
-global.mygc = 'https://chat.whatsapp.com/BFFKYGNsvrk9iOLyjrkIib'
-global.myweb = 'https://vt.tiktok.com/ZSdPqwKTg/'
-global.email = 'nelsonrandanan@gmail.com'
+global.mygc = 'https://chat.whatsapp.com/Hsko5DkvORYGCOSJNXMVo0'
+global.myweb = 'http://tiktok.com/@khorildoang4'
+global.email = 'Khoirilakbarakbar@gmail.com'
 global.region = 'Indonesia'
-global.packname = '𝙉𝙚𝙡𝘽𝙤𝙩-𝐌𝐃'
-global.author = 'By Nelson'
+global.packname = 'KhorilDoang4-BoT'
+global.author = 'By KHORIL AKBAR'
 global.santuy = '𝗗𝗶 𝗯𝗮𝘄𝗮 𝘀𝗮𝗻𝘁𝘂𝘆 𝗮𝗷𝗮 😎'
 global.sessionName = 'Nelson'
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -53,7 +53,7 @@ global.mess = {
 }
     global.limitawal = {
     premium: "Infinity",
-    free: 2,
+    free: 15,
     monayawal: 1000
 }
    global.rpg = {
